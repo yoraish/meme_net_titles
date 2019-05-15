@@ -19,6 +19,9 @@ def vis(dict, heading):
     plt.title(heading)
     plt.show()
 
+def title_to_freq(title):
+    pass
+
 
 words = {} #" maps words to the number of times seen"
 title_to_ups = {}
